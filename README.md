@@ -1,11 +1,15 @@
+# 代码在https://github.com/doo0ooG/Business-Intelligence-Third-Homework
+
 # 第三次作业-天猫复购预测-挑战Baseline
 
-# 
+**数据请在https://tianchi.aliyun.com/competition/entrance/231576/information下载并解压，把目录`data_format1`重命名为`data`并拷贝到本目录下**
 
 ### 2108080217 调包侠-余睿
 
 <hr>
+
 ## 参考材料
+
 
 - 问题来源：https://tianchi.aliyun.com/competition/entrance/231576
 
@@ -29,14 +33,6 @@
 - [模型训练](#模型训练)
 - [模型验证](#模型验证)
 - [特征优化](#特征优化)
-
-
-
-
-
-
-
-
 
 
 
